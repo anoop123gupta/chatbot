@@ -1,0 +1,38 @@
+[
+  {
+    "email": "vikash18@navgurukul.org",
+    "Title": "Python",
+    "Time": {
+      "from": "7am",
+      "to": "8am"
+    },
+    "Date": "today"
+  },
+  {
+    "email": "anoop18@navgurukul.org",
+    "Title": "HTML",
+    "Time": {
+      "from": "12pm",
+      "to": "2pm"
+    },
+    "Date": "12/3/17"
+  },
+  {
+    "email": "pradeep18@navgurukul.org",
+    "Title": "SQL",
+    "Time": {
+      "from": "2pm",
+      "to": "3pm"
+    },
+    "Date": "1/2/13"
+  },
+  {
+    "email": "vikash18@navgurukul.org",
+    "Title": "",
+    "Time": {
+      "from": "",
+      "to": ""
+    },
+    "Date": ""
+  }
+]
